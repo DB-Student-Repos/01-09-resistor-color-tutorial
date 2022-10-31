@@ -28,4 +28,5 @@ def color_code(color):
 
 def colors():
     x={"black","brown","red","orange","yellow","green","blue","violet","grey","white",}
-return x
+    return x
+
